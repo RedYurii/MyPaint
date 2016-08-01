@@ -13,3 +13,5 @@ void Fill::Work(MyCOORD crd, HDC hDC, int thick, COLORREF color) //implementatio
 	SelectObject(hDC, hOldBr);
 	DeleteObject(hBr);
 }
+
+
