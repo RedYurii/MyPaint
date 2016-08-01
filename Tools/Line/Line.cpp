@@ -13,4 +13,3 @@ void Line::Work(MyCOORD crd, HDC hDC, int thick, COLORREF color)  //implementati
 	SelectObject(hDC, hOldPen);
 	DeleteObject(hPen);
 }
-
