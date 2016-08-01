@@ -1,4 +1,4 @@
-// MyPaint application was created using win32 API. Additional external dependencies were used (shlwapi.dll)
+// MyPaint application was created using win32 API. Additional external dependencies were used (shlwapi.lib)
 //
 
 #include "stdafx.h"
