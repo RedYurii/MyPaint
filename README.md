@@ -1,0 +1,2 @@
+# MyPaint
+Primitive painting application
